@@ -12,6 +12,6 @@
 
 ## Testing Exercises
 
-* Excercise #1
-* Exercise #2
-* Exercise #3
+* [Exercise #1](https://trello.com/c/JY1GOm1C)
+* [Exercise #2](https://trello.com/c/EaRvU7bq)
+* [Exercise #3](https://trello.com/c/bhef7cUG)
