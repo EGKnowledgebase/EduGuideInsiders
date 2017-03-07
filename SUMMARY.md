@@ -4,7 +4,7 @@
 
 ## Updates
 
-### March 8, 2017 Updates
+### March 8, 2017
 
 
 ### March 7, 2017
