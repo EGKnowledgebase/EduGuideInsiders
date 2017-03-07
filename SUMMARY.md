@@ -6,7 +6,6 @@
 
 * [Path Literacy Tools](_posts/2017-03-07-literacy-tools-in-paths.md)
 
-
 ## General Information
 
 * [About the EduGuide Platform](_posts/2017-03-03-about-the-eduguide-platform.md)
