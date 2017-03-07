@@ -1,6 +1,6 @@
 ---
 ID: 52
-post_title: Adding Students to a group
+post_title: Managing Groups
 author: Jon Morganeg
 post_date: 2017-03-07 22:33:44
 post_excerpt: ""
@@ -16,10 +16,11 @@ categories:
   - Group Tools
   - Teams
 ---
+<h1>Adding Students from the Group page</h1>
 Students can be added to your group from the Groups page inside the team. To navigate to your team’s groups page, click on the gear icon, then “Groups.” You will be taken to a page where you will see a list of available groups.
 
 Click on the title of the group that you would like to add students to, and you will be taken to that group’s edit page.
-<h3>Steps</h3>
+<h2>Steps</h2>
 <table>
 <tbody>
 <tr>
@@ -59,11 +60,12 @@ Click on the title of the group that you would like to add students to, and you 
 </tr>
 </tbody>
 </table>
-<h2>Adding Students from the Member List</h2>
+<h1></h1>
+<h1>Adding Students from the Member List</h1>
 You can add a student to a group from the Team’s member list. You would do this by first clicking on “Members” in the gear icon on the team’s navigation, or if you are in the groups tool clicking on “Members” in the dropdown menu towards the upper left hand side of the page.
 
 On the Members page, click “Add to Group” next to the student who you would like to add to your group. A list of groups will appear. Click on the title of the group who you would like to add the student to. A checkbox will appear next to that group, and you will see a green confirmation message saying that the student has been added. You can also use this method to remove students from groups, or to create a new group.
-<h3>Steps</h3>
+<h2>Steps</h2>
 <table>
 <tbody>
 <tr>
@@ -93,3 +95,4 @@ On the Members page, click “Add to Group” next to the student who you would 
 </tr>
 </tbody>
 </table>
+[<a href="https://docs.google.com/document/d/1r31ln4Eeo5NHx4MQbYMMW-o6ZQj8488l8b3nN_vDn6w/edit?usp=sharing">Edit Document</a>]
