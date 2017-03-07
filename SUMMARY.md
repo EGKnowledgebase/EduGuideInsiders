@@ -18,6 +18,7 @@
 ### Knowledgebase
 * [Troubleshooting Students' Login in Problems](_posts/2017-03-07-troubleshooting-student-log-in-problems.md)
 * [Adding Members to your Group](_posts/2017-01-30-adding-members-to-your-group.md)
+* [Adding Students to a Group](_posts/2017-03-07-adding-students-to-a-group.md)
 
 ### General Information
 
