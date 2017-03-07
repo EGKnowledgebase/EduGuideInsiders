@@ -9,7 +9,7 @@ permalink: >
   http://eduguideinsiders.shepherdhistory.org/2017/03/07/join-the-eduguide-insiders-team-on-the-live-site/
 published: true
 medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:2:"no";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"1dee85efe0ab";s:6:"status";s:4:"none";s:3:"url";N;}'
 tags: [ ]
 categories:
   - Uncategorized
