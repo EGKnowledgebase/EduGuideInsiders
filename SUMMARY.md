@@ -5,7 +5,7 @@
 ## Updates
 
 ### March 8, 2017 Updates
-* [Troubleshooting Students' Login in Problems](_posts/2017-03-07-troubleshooting-student-log-in-problems.md)
+
 
 ### March 7, 2017
 
@@ -16,7 +16,7 @@
 ## Resources
 
 ### Knowledgebase
-
+* [Troubleshooting Students' Login in Problems](_posts/2017-03-07-troubleshooting-student-log-in-problems.md)
 
 ### General Information
 
