@@ -4,7 +4,7 @@
 
 ## March 3, 2017 Update
 
-* [Path Literacy Tools](_posts/2017-03-07-literacy-tools-in-paths.md)
+* [Path Literacy Tools introduced](_posts/2017-03-07-literacy-tools-in-paths.md)
 * [Join the EduGuide Insiders Team on the Live Site](_posts/2017-03-07-join-the-eduguide-insiders-team-on-the-live-site.md)
 
 ## General Information
