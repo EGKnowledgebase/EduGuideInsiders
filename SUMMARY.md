@@ -4,16 +4,19 @@
 
 ## Updates
 
-### March 4, 2017 Updates
+### March 8, 2017 Updates
 * [Troubleshooting Students' Login in Problems](_posts/2017-03-07-troubleshooting-student-log-in-problems.md)
 
-### March 3, 2017
+### March 7, 2017
 
 * [Path Literacy Tools Added to Site](_posts/2017-03-07-literacy-tools-in-paths.md)
 * [Join the EduGuide Insiders Team on the Live Site](_posts/2017-03-07-join-the-eduguide-insiders-team-on-the-live-site.md)
 * [Live Chat is now available to Members](_posts/2017-03-07-live-chat-is-now-available.md)
 
 ## Resources
+
+### Knowledgebase
+
 
 ### General Information
 
