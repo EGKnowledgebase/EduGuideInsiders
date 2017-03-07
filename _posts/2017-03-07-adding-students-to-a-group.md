@@ -14,7 +14,6 @@ tags: [ ]
 categories:
   - Teams
 ---
-<h1>Adding Students from the Group page</h1>
 Students can be added to your group from the Groups page inside the team. To navigate to your team’s groups page, click on the gear icon, then “Groups.” You will be taken to a page where you will see a list of available groups.
 
 Click on the title of the group that you would like to add students to, and you will be taken to that group’s edit page.
