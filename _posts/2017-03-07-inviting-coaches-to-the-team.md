@@ -58,4 +58,6 @@ You can remove coaches by first clicking on the “Manage” link displayed next
 <h3>Promoting/Demoting Coaches</h3>
 You can also promote and demote coaches from the Manage Coaches page. Change a coach’s role by adjusting the radio button selection to the right of their name. You can also enable or disable the star icon if you would like to promote them to the role of Team Captain.
 
+&nbsp;
+
 [ <a href="https://docs.google.com/document/d/1N3D_aL5b_tPfjVRm4ZQOF0xdIB9pUCGIoJFON7bK3zA/edit?usp=sharing">Edit Document</a> ]
