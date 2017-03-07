@@ -17,12 +17,11 @@ categories:
 ---
 <h2>Troubleshooting Student Login Problems</h2>
 From time to time, students will encounter issues with logging onto the site. Here are some things to check when this happens:
-
-Typos in the username or password during login - Confirm with the student that they have entered both their email address and their password correctly. The fields for the login page are case sensitive, and any extra spaces are counted as characters.
-
-Typos in their originally entered username - If the student entered their email address incorrectly during registration, then the site will only accept that exact spelling when they log in after that. To verify the email address that a student registered with, navigate to the Members page and then click on the student’s name, or click “Edit Membership” from the command menu located to the far right side of a student’s name on the list. Students’ email addresses will also display towards the bottom of the command menu.
-
-Duplicate accounts - Sometimes, students will accidentally register twice on the site using different email addresses, causing a duplicate account. If you suspect that this might be the issue, contact EduGuide’s helpdesk at <a href="mailto:web@eduguide.org">web@eduguide.org</a>.
+<ul>
+ 	<li>Typos in the username or password during login - Confirm with the student that they have entered both their email address and their password correctly. The fields for the login page are case sensitive, and any extra spaces are counted as characters.</li>
+ 	<li>Typos in their originally entered username - If the student entered their email address incorrectly during registration, then the site will only accept that exact spelling when they log in after that. To verify the email address that a student registered with, navigate to the Members page and then click on the student’s name, or click “Edit Membership” from the command menu located to the far right side of a student’s name on the list. Students’ email addresses will also display towards the bottom of the command menu.</li>
+ 	<li>Duplicate accounts - Sometimes, students will accidentally register twice on the site using different email addresses, causing a duplicate account. If you suspect that this might be the issue, contact EduGuide’s helpdesk at <a href="mailto:web@eduguide.org">web@eduguide.org</a>.</li>
+</ul>
 <h2>Resolving Login Issues</h2>
 There are some steps that coaches and students can take to resolve a login-related problem.
 <ul>
