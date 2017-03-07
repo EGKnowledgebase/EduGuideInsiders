@@ -12,6 +12,8 @@ medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
 tags: [ ]
 categories:
+  - Group Management
+  - Group Tools
   - Teams
 ---
 Students can be added to your group from the Groups page inside the team. To navigate to your team’s groups page, click on the gear icon, then “Groups.” You will be taken to a page where you will see a list of available groups.
