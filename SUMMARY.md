@@ -4,8 +4,9 @@
 
 ## March 3, 2017 Update
 
-* [Path Literacy Tools introduced](_posts/2017-03-07-literacy-tools-in-paths.md)
+* [Path Literacy Tools Added to Site](_posts/2017-03-07-literacy-tools-in-paths.md)
 * [Join the EduGuide Insiders Team on the Live Site](_posts/2017-03-07-join-the-eduguide-insiders-team-on-the-live-site.md)
+* [Live Chat is now available to Members](_posts/2017-03-07-live-chat-is-now-available.md)
 
 ## General Information
 
