@@ -26,7 +26,4 @@
 
 ### Testing Exercises
 
-* [Exercise #1](https://trello.com/c/JY1GOm1C)
-* [Exercise #2](https://trello.com/c/EaRvU7bq)
-* [Exercise #3](https://trello.com/c/bhef7cUG)
 * [Exercise #4](https://trello.com/c/9jBMPzSJ)
