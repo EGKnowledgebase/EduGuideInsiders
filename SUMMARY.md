@@ -4,11 +4,14 @@
 
 ## Updates
 
+## April 5, 2017
+
+* 
 ### March 16, 2017
+
 * [Preview the Next EduGUide Homepage](_posts/2017-03-16-preview-the-next-eduguide-homepage.md)
 * [Live Chat Connections](_posts/2017-03-16-live-chat-connections.md)
 * [Join the EduGuide Insiders Community on Google Plus](_posts/2017-03-16-join-the-eduguide-insiders-community-on-google.md)
-
 
 ### March 7, 2017
 
@@ -18,6 +21,7 @@
 ## Resources
 
 ### Knowledgebase
+
 * [Troubleshooting Students' Login in Problems](_posts/2017-03-07-troubleshooting-student-log-in-problems.md)
 * [Adding Members to your Group](_posts/2017-01-30-adding-members-to-your-group.md)
 
@@ -27,5 +31,8 @@
 
 ### Testing Exercises
 
-* [Exercise #4](https://trello.com/c/9jBMPzSJ)
-* [Exercise #5](https://trello.com/c/wL96a1vp)
+* [Exercise \#4](https://trello.com/c/9jBMPzSJ)
+* [Exercise \#5](https://trello.com/c/wL96a1vp)
+
+
+
