@@ -4,12 +4,13 @@
 
 ## Updates
 
-## April 5, 2017
+### April 5, 2017
 
 * 
 ### March 16, 2017
 
 * [Preview the Next EduGUide Homepage](_posts/2017-03-16-preview-the-next-eduguide-homepage.md)
+
 * [Live Chat Connections](_posts/2017-03-16-live-chat-connections.md)
 * [Join the EduGuide Insiders Community on Google Plus](_posts/2017-03-16-join-the-eduguide-insiders-community-on-google.md)
 
