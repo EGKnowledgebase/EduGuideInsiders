@@ -1,15 +1,15 @@
 ---
-ID: 99
+ID: 126
 post_title: Testing Updates 4/5/2017
 author: Jon Morganeg
-post_date: 2017-04-05 13:34:15
+post_date: 2017-05-17 21:30:35
 post_excerpt: ""
-layout: post
+layout: kbe_knowledgebase
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/04/05/testing-updates-452017/
+  http://eduguideinsiders.shepherdhistory.org/2017/05/17/testing-updates-452017/
 published: true
 medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
+  - 's:242:"O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}";'
 ---
 Things are staying busy at EduGuide as we continue to build new features and work to improve different parts of the site. Here are some of the recent updates we’ve made to the site recently:
 <ul>
