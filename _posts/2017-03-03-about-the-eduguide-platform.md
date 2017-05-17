@@ -10,9 +10,6 @@ permalink: >
 published: true
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:74:"https://cdn-images-1.medium.com/fit/c/200/200/1*wzKD9cB5gHGNjjda4H7V-g.png";s:10:"author_url";s:28:"https://medium.com/@EduGuide";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"8d3c9af1605b";s:21:"follower_notification";s:2:"no";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"1dee85efe0ab";s:6:"status";s:5:"draft";s:3:"url";s:41:"https://medium.com/@EduGuide/8d3c9af1605b";}'
-tags: [ ]
-categories:
-  - Uncategorized
 ---
 <img class="wp-image-33" src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/03/word-image.jpg" width="103" height="97" />
 

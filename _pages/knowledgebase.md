@@ -8,7 +8,5 @@ layout: page
 permalink: >
   http://eduguideinsiders.shepherdhistory.org/
 published: true
-tags: [ ]
-categories: [ ]
 ---
 [kbe_knowledgebase]
