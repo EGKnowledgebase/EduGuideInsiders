@@ -1,11 +1,12 @@
 ---
-ID: 131
+ID: 88
 post_title: Live Support available via Chat
 author: Jon Morganeg
-post_date: 2017-05-17 21:30:57
+post_date: 2017-03-22 13:57:25
 post_excerpt: ""
-layout: kbe_knowledgebase
-permalink: 'http://eduguideinsiders.shepherdhistory.org/?post_type=kbe_knowledgebase&p=131'
+layout: post
+permalink: >
+  http://eduguideinsiders.shepherdhistory.org/?p=88
 published: false
 ---
 <h1>Live Support available via Chat</h1>

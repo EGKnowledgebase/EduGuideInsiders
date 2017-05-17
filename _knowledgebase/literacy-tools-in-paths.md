@@ -6,7 +6,7 @@ post_date: 2017-05-17 21:31:37
 post_excerpt: ""
 layout: kbe_knowledgebase
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/2017/05/17/literacy-tools-in-paths/
+  http://eduguideinsiders.shepherdhistory.org/knowledgebase/literacy-tools-in-paths/
 published: true
 medium_post:
   - 's:308:"O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:2:"no";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"1dee85efe0ab";s:6:"status";s:4:"none";s:3:"url";N;}";'

@@ -1,14 +1,15 @@
 ---
-ID: 135
+ID: 68
 post_title: Literacy Tools
 author: Jon Morganeg
-post_date: 2017-05-17 21:31:15
+post_date: 2017-03-07 23:08:04
 post_excerpt: ""
-layout: kbe_knowledgebase
-permalink: 'http://eduguideinsiders.shepherdhistory.org/?post_type=kbe_knowledgebase&p=135'
+layout: post
+permalink: >
+  http://eduguideinsiders.shepherdhistory.org/?p=68
 published: false
 medium_post:
-  - 's:242:"O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}";'
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
 ---
 <p>Students are able to easily access a new set of tools that can help them understand terminology used inside the EduGuide Path. Highlighting a word will display a definition of that word, and will automatically save the word inside a personal glossary which can be accessed by selecting My Glossary from the upper left menu . Students can also translate words into different languages., or hear the word pronounced aloud. </p>
 <p></p>

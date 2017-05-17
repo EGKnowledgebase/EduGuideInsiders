@@ -1,11 +1,12 @@
 ---
-ID: 129
+ID: 92
 post_title: Daily Activity Limit
 author: Jon Morganeg
-post_date: 2017-05-17 21:30:48
+post_date: 2017-03-24 20:28:29
 post_excerpt: ""
-layout: kbe_knowledgebase
-permalink: 'http://eduguideinsiders.shepherdhistory.org/?post_type=kbe_knowledgebase&p=129'
+layout: post
+permalink: >
+  http://eduguideinsiders.shepherdhistory.org/?p=92
 published: false
 ---
 <h1>Daily Activity Limit</h1>

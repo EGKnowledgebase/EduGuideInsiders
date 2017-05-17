@@ -1,13 +1,14 @@
 ---
-ID: 130
+ID: 90
 post_title: >
   Adjusting students’ daily activity
   limits
 author: Jon Morganeg
-post_date: 2017-05-17 21:30:53
+post_date: 2017-03-24 19:39:55
 post_excerpt: ""
-layout: kbe_knowledgebase
-permalink: 'http://eduguideinsiders.shepherdhistory.org/?post_type=kbe_knowledgebase&p=130'
+layout: post
+permalink: >
+  http://eduguideinsiders.shepherdhistory.org/?p=90
 published: false
 ---
 <h1>Adjusting students’ daily activity limits</h1>

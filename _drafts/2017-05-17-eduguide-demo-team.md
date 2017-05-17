@@ -1,14 +1,15 @@
 ---
-ID: 123
+ID: 107
 post_title: EduGuide Demo Team
 author: Jon Morganeg
-post_date: 2017-05-17 21:30:19
+post_date: 2017-05-17 21:26:35
 post_excerpt: ""
-layout: kbe_knowledgebase
-permalink: 'http://eduguideinsiders.shepherdhistory.org/?post_type=kbe_knowledgebase&p=123'
+layout: post
+permalink: >
+  http://eduguideinsiders.shepherdhistory.org/?p=107
 published: false
 medium_post:
-  - 's:242:"O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}";'
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
 ---
 <h1>EduGuide Demo Team</h1>
 The EduGuide Demo Team is a single team which is offered to potential partners who are interested in the platform, but want to test it out before they sign up. Visitors can join the demo team by clicking on one of the two buttons which are displayed on the homepage. From that point forward, they are prompted to either log into an existing account, or to start a new account by entering in their registration information. Upon joining the site/team, they are routed into the first page in their path.
