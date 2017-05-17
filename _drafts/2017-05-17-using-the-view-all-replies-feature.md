@@ -2,7 +2,7 @@
 ID: 161
 post_title: Using the View all Replies Feature
 author: Jon Morganeg
-post_date: 2017-05-17 21:54:17
+post_date: 2017-05-17 21:54:26
 post_excerpt: ""
 layout: post
 permalink: >
@@ -22,14 +22,14 @@ published: false
 <p></p>
 <p>Click on the plus icon (+) next to the title of activity that you want to review.</p>
 <p></p>
-<p><img src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/05/image-4.png" width="624" height="332" alt="" title=""></p>
+<p><img src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/05/image-5.png" width="624" height="332" alt="" title=""></p>
 <p></p>
 <p>Next, look for the hyperlinked phrase “View all replies.” These will appear at the end of the text for any step that asks a question or expected a posted response from all the students who belong to groups that you follow.</p>
 <p></p>
-<p><img src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/05/image-6.png" width="624" height="45" alt="" title=""></p>
+<p><img src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/05/image-7.png" width="624" height="45" alt="" title=""></p>
 <p>Click on this hyperlink to be taken to a page listing all posted responses for this step.</p>
 <p></p>
-<p><img src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/05/image-8.png" width="624" height="332" alt="" title=""></p>
+<p><img src="http://eduguideinsiders.shepherdhistory.org/wp-content/uploads/2017/05/image-9.png" width="624" height="332" alt="" title=""></p>
 <p></p>
 <h2>Posting comments</h2>
 <p>You can easily respond to each of the students’ comments. Choose a student you would like to respond to, then enter your response inside the comment field that is shown inside their section on the page.</p>
