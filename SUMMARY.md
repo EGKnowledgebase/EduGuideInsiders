@@ -4,7 +4,7 @@
 
 ## Teams
 
-#### Notifications
+**Notifications**
 
 * [SMS Notifications](_posts/2017-04-07-sms-notifications.md)
 
