@@ -2,15 +2,13 @@
 ID: 175
 post_title: Using the View all Replies Feature
 author: Jon Morganeg
-post_date: 2017-05-17 22:46:57
+post_date: 2017-05-17 22:48:25
 post_excerpt: ""
 layout: post
 permalink: >
   http://eduguideinsiders.shepherdhistory.org/?p=175
 published: false
 ---
-<h1>Using the View all Replies Feature</h1>
-<p></p>
 <p>There is a new feature in the path metrics page which allows coaches to quickly review all of the responses that students have posted for a specific activity step in the path. Coaches can zoom in on a specific step question, respond to students’ posts, and adjust the view so that they are seeing posted comments from students in different groups.</p>
 <h1>Viewing All Replies</h1>
 <p>If you’re not there yet, you will want to begin by first navigating to the Metrics page. Click on the menu control next to the EduGuide logo and then choose “Metrics,” or use the side menu to navigate to the Metrics page.</p>
