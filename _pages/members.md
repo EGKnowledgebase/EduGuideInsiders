@@ -8,6 +8,4 @@ layout: page
 permalink: >
   http://eduguideinsiders.shepherdhistory.org/members/
 published: true
-tags: [ ]
-categories: [ ]
 ---
