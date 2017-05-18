@@ -1,4 +1,6 @@
-# EduGuide Insiders
+# EduGuide User's Manual 
+
+## May 17, 2017
 
 
 
