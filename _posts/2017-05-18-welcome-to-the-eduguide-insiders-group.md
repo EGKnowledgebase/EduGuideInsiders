@@ -2,12 +2,12 @@
 ID: 94
 post_title: Welcome to the EduGuide Insiders Group
 author: Jon Morganeg
-post_date: 2017-03-28 13:53:28
+post_date: 2017-05-18 02:05:32
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/?p=94
-published: false
+  http://eduguideinsiders.shepherdhistory.org/2017/05/18/welcome-to-the-eduguide-insiders-group/
+published: true
 ---
 <h1>Welcome to the EduGuide Insiders Group</h1>
 <p></p>
