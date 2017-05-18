@@ -2,12 +2,12 @@
 ID: 92
 post_title: Daily Activity Limit
 author: Jon Morganeg
-post_date: 2017-03-24 20:28:29
+post_date: 2017-05-18 02:05:37
 post_excerpt: ""
 layout: post
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/?p=92
-published: false
+  http://eduguideinsiders.shepherdhistory.org/2017/05/18/daily-activity-limit/
+published: true
 ---
 <h1>Daily Activity Limit</h1>
 <p></p>
