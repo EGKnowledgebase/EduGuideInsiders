@@ -6,10 +6,12 @@ post_date: 2017-05-17 23:00:47
 post_excerpt: ""
 layout: kbe_knowledgebase
 permalink: >
-  http://eduguideinsiders.shepherdhistory.org/knowledgebase/copy/
+  http://eduguideinsiders.shepherdhistory.org/knowledgebase/viewallreplies/
 published: true
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
+kbe_post_views_count:
+  - "4"
 ---
 There is a new feature in the path metrics page which allows coaches to quickly review all of the responses that students have posted for a specific activity step in the path. Coaches can zoom in on a specific step question, respond to students’ posts, and adjust the view so that they are seeing posted comments from students in different groups.
 <h1>Viewing All Replies</h1>
